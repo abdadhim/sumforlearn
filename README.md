@@ -1,14 +1,6 @@
----
-title: Summarizer For Learning
-emoji: ✍️
-colorFrom: yellow
-colorTo: yellow
-sdk: gradio
-sdk_version: 4.8.0
-app_file: app.py
-pinned: false
----
-<h1 style="text-align: center;">✍️ Summarizer for Learning Documentation<h1>
+# ✍️ Summarizer for Learning Documentation
+
+Check out the app [here](https://reflection777-summarizer-for-learning.hf.space/?__theme=dark).
 
 ## 1. User Manual
 <details>
