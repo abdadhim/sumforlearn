@@ -1,0 +1,8 @@
+transformers
+gradio
+git+https://github.com/openai/whisper.git
+youtube-transcript-api
+langchain
+numpy
+pytube
+BeautifulSoup4
